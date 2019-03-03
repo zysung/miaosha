@@ -61,7 +61,7 @@ spring:
 redis:
       host: 139.199.66.249
       port: 6379
-      password: songziyang95
+      password: xxx
       timeout: 1000
       poolMaxTotal: 1000
       poolMaxIdle: 500
